@@ -6,3 +6,5 @@ as well as add any configuration files or scripts you wrote for the assignment t
 
 #### Good Luck
 
+1. Option A
+2. look at OptionA.cpp 
